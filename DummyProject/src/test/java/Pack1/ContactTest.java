@@ -11,10 +11,7 @@ public void createcontactTest() {
 public void ModifycontactTest() {
 	System.out.println("Execute ModifyContactTest");
 }
-@Test
-public void DeleteContactTest() {
-	System.out.println("Execute Delete ContactTest");
-}
+
 
 
 }
